@@ -1,0 +1,3 @@
+print("test")
+
+nwm co tu napisac xdd
